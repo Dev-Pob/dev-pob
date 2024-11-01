@@ -2,10 +2,12 @@
 
 <ul>
   <li>💻Front-end Developer Wannabe</li>
-  <li>🃏Card games enthusiast!</li>
+  <li>🃏 Trading Card games enthusiast!</li>
 </ul>
 
 <p>
+I'm Francescopio, but you can call me Pob, I'm from Naples but I don't where I am while you are reading this, but be sure that I'll be eating pasta or playing card games or both.
+  
 I've worked on so many different works in my early 20s that I already feel very old, but never too old for new challenges <br>
 I'm developing(eheh) my devolper skills focusing on the React framework and willing to learn more in the future 🌟
 
