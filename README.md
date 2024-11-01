@@ -18,7 +18,9 @@ I really hope that I will find some place where I can give everything to create 
 If you want to chat or think that I can be usefull for you agency, <br> 
 this is my email: francescopio.pocobelli@gmail.com
 <br>
-Bye👋
+In my directory you can find EVERYTHING I'VE DONE UNTIL NOW, so enjoy!
+<br>
+See ya👋
 </p>
 
 
